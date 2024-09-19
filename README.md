@@ -2,3 +2,4 @@
 - [DiffCPS](https://arxiv.org/abs/2310.05333)
 -  [TD3_BC](https://arxiv.org/abs/2106.06860)
 -  [BCQ](https://arxiv.org/abs/1812.02900)
+-  [DAC](https://arxiv.org/abs/2405.20555)
