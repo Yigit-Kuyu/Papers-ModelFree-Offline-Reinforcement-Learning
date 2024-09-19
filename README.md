@@ -1,1 +1,4 @@
-# Papers-Offline-Reinforcement-Learning
+- [BEAR](https://arxiv.org/abs/1906.00949)
+- [DiffCPS](https://arxiv.org/abs/2310.05333)
+-  [TD3_BC](https://arxiv.org/abs/2106.06860)
+-  [BCQ](https://arxiv.org/abs/1812.02900)
