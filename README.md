@@ -8,3 +8,4 @@
 -  [A2PR](https://arxiv.org/abs/2405.19909) [Code](https://github.com/ltlhuuu/A2PR)
 -  [AMPL](https://arxiv.org/pdf/2210.05922) [Code](https://github.com/Shentao-YANG/AMPL_NeurIPS2022)
 -  RL_GA_VAE [Code](https://github.com/vub-ai-lab/offline-rl)
+-  [CGDT](https://arxiv.org/abs/2312.13716) [Code](https://github.com/sharkwyf/cgdt)
